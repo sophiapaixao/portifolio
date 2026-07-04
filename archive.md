@@ -14,4 +14,3 @@ permalink: /archive/
   </li>
 {% endfor %}
 </ul>
-</section>
