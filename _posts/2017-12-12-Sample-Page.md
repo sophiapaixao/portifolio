@@ -1,5 +1,5 @@
 ---
-title: Explorações Técnicas: Linguagens de Programação e a Base Matemática
+title: Explorações Técnicas: Linguagens e a Base Matemática
 published: true
 ---
 
