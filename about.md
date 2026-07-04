@@ -2,5 +2,6 @@
 layout: page
 title: About
 ---
-
-Something about me.
+email pessoal: sophiapaixao2000@gmail.com
+número de telefone: (32 98899-9530
+instagram: @sophisoares333
