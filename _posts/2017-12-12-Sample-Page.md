@@ -1,5 +1,5 @@
 ---
-title: Explorações Técnicas: Linguagens e a Base Matemática
+title: Linguagens e a Base Matemática
 published: true
 ---
 
